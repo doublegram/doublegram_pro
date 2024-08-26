@@ -3,7 +3,3 @@
 Bulk invite and scraping tool for your groups and channels on Telegram.
 
 More info on www.doublegram.com
-
-
-
-
